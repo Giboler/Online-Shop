@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Noor\Projects\C++\Online Shop\</FILEPATH>
+      <FILENAME>Customer.h</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Customer::name' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Customer::{ctor}</FUNCTION>
+    <DECORATED>??0Customer@@QAE@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Customer::name</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Noor\Projects\C++\Online Shop\</FILEPATH>
+      <FILENAME>Customer.h</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Customer::address' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Customer::{ctor}</FUNCTION>
+    <DECORATED>??0Customer@@QAE@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Customer::address</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Noor\Projects\C++\Online Shop\</FILEPATH>
+      <FILENAME>Customer.h</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Customer::userName' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Customer::{ctor}</FUNCTION>
+    <DECORATED>??0Customer@@QAE@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Customer::userName</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Noor\Projects\C++\Online Shop\</FILEPATH>
+      <FILENAME>Customer.h</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Customer::phone' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Customer::{ctor}</FUNCTION>
+    <DECORATED>??0Customer@@QAE@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Customer::phone</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Noor\Projects\C++\Online Shop\</FILEPATH>
+      <FILENAME>Customer.h</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Customer::email' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Customer::{ctor}</FUNCTION>
+    <DECORATED>??0Customer@@QAE@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Customer::email</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Noor\Projects\C++\Online Shop\</FILEPATH>
+      <FILENAME>Customer.h</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Customer::confirmPass' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Customer::{ctor}</FUNCTION>
+    <DECORATED>??0Customer@@QAE@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Customer::confirmPass</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

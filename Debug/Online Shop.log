@@ -1,0 +1,9 @@
+﻿  Customer.cpp
+C:\Noor\Projects\C++\Online Shop\Customer.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+  Products.cpp
+C:\Noor\Projects\C++\Online Shop\Products.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Noor\Projects\C++\Online Shop\Products.cpp(111): warning C4715: 'Products::searchProducts': not all control paths return a value
+C:\Noor\Projects\C++\Online Shop\Customer.cpp(115): warning C4715: 'Customer::searchUser': not all control paths return a value
+C:\Noor\Projects\C++\Online Shop\Customer.cpp(192): warning C4715: 'Customer::custStart': not all control paths return a value
+  Online Shop.vcxproj -> C:\Noor\Projects\C++\Online Shop\Debug\Online Shop.exe
